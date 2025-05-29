@@ -51,10 +51,10 @@ main
 
 | Metric     | Value   |
 |------------|---------|
-| Accuracy   | 99.91%  |
-| Precision  | 99.82%  |
+| Accuracy   | 100.00% |
+| Precision  | 100.00% |
 | Recall     | 100.00% |
-| F1 Score   | 99.91%  |
+| F1 Score   | 100.00% |
 
 ## 📌 Notes
 
